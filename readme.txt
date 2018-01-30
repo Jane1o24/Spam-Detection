@@ -9,3 +9,12 @@
 2、利用分别对正向情感和负向情感进行突发检测利用分别对正向情感和负向情感进行突发检测,用[1]的方法，检测是否落在可疑区间内，
 3、再利用是否可疑、文本相似度、评论长度、评论名词率、评论句子数量等特征训练SVM、RT、GBDT模型进行分类
 
+
+
+1.Instruction
+	1. dataset: The scripts for downloading datasets automatically. Add dataset names into .gitignore file, so the datasets downloaded won’t be pushed.
+	2. code: all scripts related to models
+	3. note: all notebooks(ipyntbook etc.)
+	4. .gitignore(invisible): Excludes some files
+2.References:
+	
