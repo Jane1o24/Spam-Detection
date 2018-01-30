@@ -12,4 +12,15 @@ Co-bursting Behaviors](https://arxiv.org/pdf/1611.06625.pdf)
 7. [Analyzing and Detecting Opinion Spam on a
 Large-Scale Dataset via Temporal and Spatial Patterns](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/download/10534/10461)
 8. [Detection of fake opinions using time series](https://www.sciencedirect.com/science/article/pii/S0957417416301129)
+9. [Credible Review Detection with Limited Information
+using Consistency Features](https://arxiv.org/pdf/1705.02668.pdf)
+10. [Detecting Singleton Review Spammers Using Semantic
+Similarity](https://arxiv.org/pdf/1609.02727.pdf)
+11. [NetSpam: a Network-based Spam Detection
+Framework for Reviews in Online Social Media](https://arxiv.org/pdf/1703.03609.pdf)
 
+## Datasets(possible)
+
+1. [Deceptive Opinion Spam Corpus v1.4](http://myleott.com/op-spam.html)
+2. [A reviews collection for varies purples](http://odds.cs.stonybrook.edu/)
+3. [Yelp Chanllenge](https://www.yelp.com/dataset/challenge)
