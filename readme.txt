@@ -16,5 +16,5 @@
 	2. code: all scripts related to models
 	3. note: all notebooks(ipyntbook etc.)
 	4. .gitignore(invisible): Excludes some files
-2.References:
+
 	
