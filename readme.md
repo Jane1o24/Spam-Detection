@@ -22,5 +22,5 @@ Framework for Reviews in Online Social Media](https://arxiv.org/pdf/1703.03609.p
 ## Datasets(possible)
 
 1. [Deceptive Opinion Spam Corpus v1.4](http://myleott.com/op-spam.html)
-2. [A reviews collection for varies purples](http://odds.cs.stonybrook.edu/)
+2. [A reviews collection for varies purpose](http://odds.cs.stonybrook.edu/)
 3. [Yelp Chanllenge](https://www.yelp.com/dataset/challenge)
